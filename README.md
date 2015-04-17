@@ -4,12 +4,12 @@ Kaws - Krita artist workspace set
 Authors & License
 -----------------
 
-The workspaces and arts used in this set are created by different person.
+The workspaces and arts used in this set are created by different people.
 
 For an harmonic view in the Krita may be necessary some small changes in your interface.
 
 
-| Workspace Set    |  Author      | Website        
+| Workspace Set    |  Author      | Website
 | ---------------- | ------------ | -------------------------------------------
 | Sketching        | AndeOn       | http://andeons.com 
 
