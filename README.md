@@ -22,7 +22,7 @@ Licensed under the GNU GENERAL PUBLIC LICENSE, Version 2
 
 Installation
 ------------
-1. Copy the *.kws files to folders into the ~/.kde/share/apps/krita/workspacess folder of your Home directory.
+1. Copy the *.kws files into the ~/.kde/share/apps/krita/workspacess folder of your Home directory.
 2. Start the Krita and access the button "choose workspace" in the toolbar, then choose the workspace you prefer.
 
 Links
