@@ -2,6 +2,9 @@ Kaws - Krita artists workspace set
 =================================
 ![Kaws](https://github.com/andeon/Kaws/blob/master/screenshot.jpg)
 
+
+Kaws is simply a set of workspaces built by the Krita. The idea here is just to promote the software.
+
 Authors & License
 -----------------
 
