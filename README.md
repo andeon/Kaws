@@ -1,4 +1,4 @@
-Kaws - Krita artist workspace set
+Kaws - Krita artists workspace set
 =================================
 ![Kaws](https://github.com/andeon/Kaws/blob/master/screenshot.jpg)
 
